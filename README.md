@@ -1,6 +1,5 @@
 # Parvathy Sailesh
-PhD Student, Public Policy
-National University of Singapore
+I am a PhD student at the Lee Kuan Yew School of Public Policy, National University of Singaore. 
 
 ### Education
 - Ph.D., Public Policy | National University of Singapore (_August 2024 - Present_)								       		
