@@ -3,3 +3,6 @@ logo: assets/Website headshot_circle.png
 description: parvathy.sailesh@u.nus.edu
 show_downloads: false
 theme: jekyll-theme-minimal
+markdown: kramdown
+include:
+  - /assets/css/custom.css
