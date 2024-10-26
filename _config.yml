@@ -5,4 +5,4 @@ show_downloads: false
 theme: jekyll-theme-minimal
 markdown: kramdown
 include:
-  - /assets/css/custom.css
+  - assets/css/custom.css
