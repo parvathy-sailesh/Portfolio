@@ -2,12 +2,12 @@
 
 /* Increase width of main content */
 .page-content {
-  max-width: 1000px; /* Adjust this value to your preferred width */
+  max-width: 2000px; /* Adjust this value to your preferred width */
   margin: 0 auto;    /* Center align the content */
   padding: 20px;     /* Add padding if necessary */
 }
 
 /* Increase width of text within content */
 .page-content p {
-  max-width: 900px; /* Adjust text width specifically */
+  max-width: 1000px; /* Adjust text width specifically */
 }
